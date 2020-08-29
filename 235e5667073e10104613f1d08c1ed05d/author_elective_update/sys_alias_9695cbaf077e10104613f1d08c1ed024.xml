@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_217975_dev63008.test</id>
+        <multiple_connections>false</multiple_connections>
+        <name>test</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-29 11:24:28</sys_created_on>
+        <sys_id>9695cbaf077e10104613f1d08c1ed024</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_217975_dev63008.test</sys_name>
+        <sys_package display_value="dev63008" source="x_217975_dev63008">235e5667073e10104613f1d08c1ed05d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dev63008">235e5667073e10104613f1d08c1ed05d</sys_scope>
+        <sys_update_name>sys_alias_9695cbaf077e10104613f1d08c1ed024</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-29 11:24:28</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="dev63008">235e5667073e10104613f1d08c1ed05d</application>
+        <file_path/>
+        <instance_id>8fdb8a35db143b00f492c597059619ff</instance_id>
+        <instance_name>dev76315</instance_name>
+        <name>sys_alias_9695cbaf077e10104613f1d08c1ed024</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_217975_dev63008.test</id><multiple_connections>false</multiple_connections><name>test</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-29 11:24:28</sys_created_on><sys_id>9695cbaf077e10104613f1d08c1ed024</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_217975_dev63008.test</sys_name><sys_package display_value="dev63008" source="x_217975_dev63008">235e5667073e10104613f1d08c1ed05d</sys_package><sys_policy/><sys_scope display_value="dev63008">235e5667073e10104613f1d08c1ed05d</sys_scope><sys_update_name>sys_alias_9695cbaf077e10104613f1d08c1ed024</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-29 11:24:28</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>970021600</payload_hash>
+        <record_name>x_217975_dev63008.test</record_name>
+        <reverted_from/>
+        <source>a35e5667073e10104613f1d08c1ed05f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-29 11:24:28</sys_created_on>
+        <sys_id>d4a5cbaf077e10104613f1d08c1ed08c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17439f62c870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-29 11:24:28</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>dca5cbaf527e10104a7ee48a611d648b</update_guid>
+        <update_guid_history>dca5cbaf527e10104a7ee48a611d648b:970021600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-29 11:27:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>37f383624c984ebc9da94b03affc8c10</sys_id>
+        <sys_metadata>9695cbaf077e10104613f1d08c1ed024</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_217975_dev63008.test</sys_name>
+        <sys_package display_value="dev63008" source="x_217975_dev63008">235e5667073e10104613f1d08c1ed05d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="dev63008">235e5667073e10104613f1d08c1ed05d</sys_scope>
+        <sys_scope_delete display_value="">560999f9a7284730a42e83f09e44fc99</sys_scope_delete>
+        <sys_update_name>sys_alias_9695cbaf077e10104613f1d08c1ed024</sys_update_name>
+        <sys_update_version display_value="sys_alias_9695cbaf077e10104613f1d08c1ed024">d4a5cbaf077e10104613f1d08c1ed08c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-29 11:27:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
